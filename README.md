@@ -4,7 +4,7 @@ A modern and interactive To-Do List web application built using HTML, CSS, JavaS
 
 ## 🚀 Live Demo
 
-🔗 https://ganibasha.github.io/todo-app/
+🔗 https://ganibasha.github.io/Todo-List/
 
 ---
 
